@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/bosch", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/bosch-akku-druckluftpumpe-easy-pump-bosch-8773533-1.jpg":"\u002Fassets\u002Fimages\u002Fbosch-akku-druckluftpumpe-easy-pump-bosch-8773533-1.webp"}}],fetch:{},mutations:void 0});

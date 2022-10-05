@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/gloria", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gloria-thermoflamm-druckminderer-gloria-4470902-1.jpg":"\u002Fassets\u002Fimages\u002Fgloria-thermoflamm-druckminderer-gloria-4470902-1.webp"}}],fetch:{},mutations:void 0});
