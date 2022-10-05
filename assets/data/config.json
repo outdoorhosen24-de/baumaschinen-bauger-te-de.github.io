@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "baumaschinen-baugeräte.de",
-    "hostname": "https://www.baumaschinen-baugeräte.de/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "baumaschinen-bauger\u00e4te.de",
+    "hostname": "https://www.baumaschinen-bauger\u00e4te.de/",
+    "email": "baumaschinen-bauger\u00e4te.desurrealnetworks.io",
+    "organization": "baumaschinen-bauger\u00e4te.de",
+    "logoText": "Baumaschinen-bauger\u00e4te.de",
+    "title": "Baumaschinen & Bauger\u00e4te",
+    "subline": "Der Online Shop f\u00fcr Baumaschinen & Bauger\u00e4te",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9328279",
+        "8331472",
+        "5543442",
+        "5251285",
+        "4470902",
+        "4347902"
+    ],
+    "winnerProducts": [
+        "7348907",
+        "8632077",
+        "4220364"
+    ],
+    "featuredCategories": [
+        "Spezialmaschinen",
+        "Kompressoren",
+        "Baumaschinen",
+        "Spezialmaschinen",
+        "Kompressoren & Zubeh\u00f6r",
+        "Baumaschinen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Baumaschinen & Bauger\u00e4te",
-        "featureText": "Your featured text goes here",
+        "featureText": "Baumaschinen & Bauger\u00e4te ist ein Fachgesch\u00e4ft f\u00fcr Baumaschinen und Bauger\u00e4te. Wir f\u00fchren eine gro\u00dfe Auswahl an Baumaschinen und Bauger\u00e4ten f\u00fcr den privaten und gewerblichen Bereich. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der richtigen Ger\u00e4te.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Baumaschinen & Bauger\u00e4te - Alles f\u00fcr Ihren Bau!",
+            "metaDescription": "Baumaschinen & Bauger\u00e4te - alles f\u00fcr Ihren Bau. Kompetente Beratung, gro\u00dfe Auswahl, g\u00fcnstige Preise.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Baumaschinen & Bauger\u00e4te: Alles f\u00fcr Ihren Bau!",
+                    "text": "Baumaschinen und Bauger\u00e4te sind unerl\u00e4sslich f\u00fcr die Durchf\u00fchrung von Bauprojekten aller Art. Sie erleichtern die Arbeit und erm\u00f6glichen es, gro\u00dfe und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Ger\u00e4te, die f\u00fcr verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu geh\u00f6ren Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzm\u00f6glichkeiten.\n\nBauger\u00e4te sind kleinere Ger\u00e4te, die f\u00fcr die Durchf\u00fchrung von Bauarbeiten aller Art eingesetzt werden. Dazu geh\u00f6ren Handwerkszeuge wie Hammer, Mei\u00dfel, S\u00e4ge, Schaufel, Spitzhacke und Kehrmaschine. Auch Ger\u00e4te wie Bohrmaschine, Kompressor, Generator, Hebeb\u00fchne und Laserschneider z\u00e4hlen zu den Bauger\u00e4ten.\n\nBaumaschinen und Bauger\u00e4te sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Ger\u00e4te gleichzeitig auf einer Baustelle im Einsatz. So k\u00f6nnen die Arbeiten schneller und effizienter durchgef\u00fchrt werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Baumaschinen & Bauger\u00e4te Shop",
+            "metaDescription": "Baumaschinen & Bauger\u00e4te Shop - Hier findest du alles f\u00fcr dein Bauvorhaben!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Baumaschinen & Bauger\u00e4te - Manufacturer",
+            "metaDescription": "Baumaschinen & Bauger\u00e4te - Finden Sie hier die passende Baumaschine oder das passende Bauger\u00e4t f\u00fcr Ihren Bedarf. Vom Hersteller direkt kaufen und sparen!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Baumaschinen & Bauger\u00e4te: $PRODUKT",
+        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te von $HERSTELLER. Kaufen Sie $PRODUKT f\u00fcr Ihren n\u00e4chsten Bauprojekt. Wir haben die beste Auswahl an $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Baumaschinen & Bauger\u00e4te $KATEGORIE",
+        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te f\u00fcr jeden Bedarf. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te von $HERSTELLER - f\u00fchrend in Innovation und Qualit\u00e4t. Kaufen Sie jetzt online bei der Nr.1!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Baumaschinen & Bauger\u00e4te",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Baumaschinen & Bauger\u00e4te Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Baumaschinen & Bauger\u00e4te Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
