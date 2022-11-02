@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "baumaschinen-bauger\u00e4te.de",
-    "hostname": "https://www.baumaschinen-bauger\u00e4te.de/",
-    "email": "baumaschinen-bauger\u00e4te.desurrealnetworks.io",
-    "organization": "baumaschinen-bauger\u00e4te.de",
-    "logoText": "Baumaschinen-bauger\u00e4te.de",
-    "title": "Baumaschinen & Bauger\u00e4te",
-    "subline": "Der Online Shop f\u00fcr Baumaschinen & Bauger\u00e4te",
+    "configIsReady": false,
+    "domain": "baumaschinen-baugeräte.de",
+    "hostname": "https://www.baumaschinen-baugeräte.de/",
+    "email": "baumaschinen-baugeräte.desurrealnetworks.io",
+    "organization": "baumaschinen-baugeräte.de",
+    "logoText": "Baumaschinen-baugeräte.de",
+    "title": "Baumaschinen & Baugeräte",
+    "subline": "Der Online Shop für Baumaschinen & Baugeräte",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -32,7 +32,7 @@
         "Kompressoren",
         "Baumaschinen",
         "Spezialmaschinen",
-        "Kompressoren & Zubeh\u00f6r",
+        "Kompressoren & Zubehör",
         "Baumaschinen"
     ],
     "socialMediaAccounts": [],
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Baumaschinen & Bauger\u00e4te",
-        "featureText": "Baumaschinen & Bauger\u00e4te ist ein Fachgesch\u00e4ft f\u00fcr Baumaschinen und Bauger\u00e4te. Wir f\u00fchren eine gro\u00dfe Auswahl an Baumaschinen und Bauger\u00e4ten f\u00fcr den privaten und gewerblichen Bereich. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der richtigen Ger\u00e4te.",
+        "mainKeyword": "Baumaschinen & Baugeräte",
+        "featureText": "Baumaschinen & Baugeräte ist ein Fachgeschäft für Baumaschinen und Baugeräte. Wir führen eine große Auswahl an Baumaschinen und Baugeräten für den privaten und gewerblichen Bereich. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der richtigen Geräte.",
         "index": {
-            "title": "Baumaschinen & Bauger\u00e4te - Alles f\u00fcr Ihren Bau!",
-            "metaDescription": "Baumaschinen & Bauger\u00e4te - alles f\u00fcr Ihren Bau. Kompetente Beratung, gro\u00dfe Auswahl, g\u00fcnstige Preise.",
+            "title": "Baumaschinen & Baugeräte - Alles für Ihren Bau!",
+            "metaDescription": "Baumaschinen & Baugeräte - alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Baumaschinen & Bauger\u00e4te: Alles f\u00fcr Ihren Bau!",
-                    "text": "Baumaschinen und Bauger\u00e4te sind unerl\u00e4sslich f\u00fcr die Durchf\u00fchrung von Bauprojekten aller Art. Sie erleichtern die Arbeit und erm\u00f6glichen es, gro\u00dfe und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Ger\u00e4te, die f\u00fcr verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu geh\u00f6ren Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzm\u00f6glichkeiten.\n\nBauger\u00e4te sind kleinere Ger\u00e4te, die f\u00fcr die Durchf\u00fchrung von Bauarbeiten aller Art eingesetzt werden. Dazu geh\u00f6ren Handwerkszeuge wie Hammer, Mei\u00dfel, S\u00e4ge, Schaufel, Spitzhacke und Kehrmaschine. Auch Ger\u00e4te wie Bohrmaschine, Kompressor, Generator, Hebeb\u00fchne und Laserschneider z\u00e4hlen zu den Bauger\u00e4ten.\n\nBaumaschinen und Bauger\u00e4te sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Ger\u00e4te gleichzeitig auf einer Baustelle im Einsatz. So k\u00f6nnen die Arbeiten schneller und effizienter durchgef\u00fchrt werden."
+                    "title": "Baumaschinen & Baugeräte: Alles für Ihren Bau!",
+                    "text": "Baumaschinen und Baugeräte sind unerlässlich für die Durchführung von Bauprojekten aller Art. Sie erleichtern die Arbeit und ermöglichen es, große und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Geräte, die für verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu gehören Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzmöglichkeiten.\n\nBaugeräte sind kleinere Geräte, die für die Durchführung von Bauarbeiten aller Art eingesetzt werden. Dazu gehören Handwerkszeuge wie Hammer, Meißel, Säge, Schaufel, Spitzhacke und Kehrmaschine. Auch Geräte wie Bohrmaschine, Kompressor, Generator, Hebebühne und Laserschneider zählen zu den Baugeräten.\n\nBaumaschinen und Baugeräte sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Geräte gleichzeitig auf einer Baustelle im Einsatz. So können die Arbeiten schneller und effizienter durchgeführt werden."
                 }
             ]
         },
         "shop": {
-            "title": "Baumaschinen & Bauger\u00e4te Shop",
-            "metaDescription": "Baumaschinen & Bauger\u00e4te Shop - Hier findest du alles f\u00fcr dein Bauvorhaben!",
+            "title": "Baumaschinen & Baugeräte Shop",
+            "metaDescription": "Baumaschinen & Baugeräte Shop - Hier findest du alles für dein Bauvorhaben!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Baumaschinen & Bauger\u00e4te - Manufacturer",
-            "metaDescription": "Baumaschinen & Bauger\u00e4te - Finden Sie hier die passende Baumaschine oder das passende Bauger\u00e4t f\u00fcr Ihren Bedarf. Vom Hersteller direkt kaufen und sparen!",
+            "title": "Baumaschinen & Baugeräte - Manufacturer",
+            "metaDescription": "Baumaschinen & Baugeräte - Finden Sie hier die passende Baumaschine oder das passende Baugerät für Ihren Bedarf. Vom Hersteller direkt kaufen und sparen!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Baumaschinen & Bauger\u00e4te: $PRODUKT",
-        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te von $HERSTELLER. Kaufen Sie $PRODUKT f\u00fcr Ihren n\u00e4chsten Bauprojekt. Wir haben die beste Auswahl an $KATEGORIE.",
+        "defaultTitle": "Baumaschinen & Baugeräte: $PRODUKT",
+        "defaultMetaDescription": "Baumaschinen & Baugeräte von $HERSTELLER. Kaufen Sie $PRODUKT für Ihren nächsten Bauprojekt. Wir haben die beste Auswahl an $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Baumaschinen & Bauger\u00e4te $KATEGORIE",
-        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te f\u00fcr jeden Bedarf. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "Baumaschinen & Baugeräte $KATEGORIE",
+        "defaultMetaDescription": "Baumaschinen & Baugeräte für jeden Bedarf. Jetzt online bestellen bei $KATEGORIE!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Baumaschinen & Bauger\u00e4te von $HERSTELLER - f\u00fchrend in Innovation und Qualit\u00e4t. Kaufen Sie jetzt online bei der Nr.1!",
+        "defaultMetaDescription": "Baumaschinen & Baugeräte von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Baumaschinen & Bauger\u00e4te",
+            "linkTitle": "Baumaschinen & Baugeräte",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Baumaschinen & Bauger\u00e4te Shop",
+            "linkTitle": "Baumaschinen & Baugeräte Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Baumaschinen & Bauger\u00e4te Marken",
+            "linkTitle": "Baumaschinen & Baugeräte Marken",
             "publish": true
         },
         {
