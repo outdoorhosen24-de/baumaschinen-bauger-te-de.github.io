@@ -51,12 +51,15 @@
             "title": "Baumaschinen & Baugeräte - Alles für Ihren Bau!",
             "metaDescription": "Baumaschinen & Baugeräte - alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Baumaschinen & Baugeräte: Alles für Ihren Bau!",
-                    "text": "Baumaschinen und Baugeräte sind unerlässlich für die Durchführung von Bauprojekten aller Art. Sie erleichtern die Arbeit und ermöglichen es, große und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Geräte, die für verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu gehören Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzmöglichkeiten.\n\nBaugeräte sind kleinere Geräte, die für die Durchführung von Bauarbeiten aller Art eingesetzt werden. Dazu gehören Handwerkszeuge wie Hammer, Meißel, Säge, Schaufel, Spitzhacke und Kehrmaschine. Auch Geräte wie Bohrmaschine, Kompressor, Generator, Hebebühne und Laserschneider zählen zu den Baugeräten.\n\nBaumaschinen und Baugeräte sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Geräte gleichzeitig auf einer Baustelle im Einsatz. So können die Arbeiten schneller und effizienter durchgeführt werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Baumaschinen & Baugeräte: Alles für Ihren Bau!",
+                        "text": "Baumaschinen und Baugeräte sind unerlässlich für die Durchführung von Bauprojekten aller Art. Sie erleichtern die Arbeit und ermöglichen es, große und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Geräte, die für verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu gehören Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzmöglichkeiten.\n\nBaugeräte sind kleinere Geräte, die für die Durchführung von Bauarbeiten aller Art eingesetzt werden. Dazu gehören Handwerkszeuge wie Hammer, Meißel, Säge, Schaufel, Spitzhacke und Kehrmaschine. Auch Geräte wie Bohrmaschine, Kompressor, Generator, Hebebühne und Laserschneider zählen zu den Baugeräten.\n\nBaumaschinen und Baugeräte sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Geräte gleichzeitig auf einer Baustelle im Einsatz. So können die Arbeiten schneller und effizienter durchgeführt werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Baumaschinen & Baugeräte Shop",
