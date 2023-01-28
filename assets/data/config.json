@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "baumaschinen-baugeräte.de",
     "hostname": "https://www.baumaschinen-baugeräte.de/",
     "email": "baumaschinen-baugeräte.de@surrealnetworks.io",
     "organization": "baumaschinen-baugeräte.de",
     "logoText": "Baumaschinen-baugeräte.de",
-    "title": "Baumaschinen & Baugeräte",
-    "subline": "Der Online Shop für Baumaschinen & Baugeräte",
+    "title": "Baumaschinen & Kompressoren",
+    "subline": "Baumaschinen & Kompressoren günstig bestellen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Baumaschinen & Baugeräte",
-        "featureText": "Baumaschinen & Baugeräte ist ein Fachgeschäft für Baumaschinen und Baugeräte. Wir führen eine große Auswahl an Baumaschinen und Baugeräten für den privaten und gewerblichen Bereich. Unsere Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der richtigen Geräte.",
+        "featureText": "Wir sind ein Online-Shop, der sich auf Baumaschinen und Kompressoren spezialisiert hat. Für den privaten und gewerblichen Bereich führen wir eine große Auswahl an Baumaschinen und Kompressoren. Unsere Mitarbeiterinnen und Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der für Sie am besten geeigneten Geräte.",
         "index": {
-            "title": "Baumaschinen & Baugeräte - Alles für Ihren Bau!",
-            "metaDescription": "Baumaschinen & Baugeräte - alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise.",
+            "title": "Baumaschinen & Kompressoren- Alles für Ihren Bau!",
+            "metaDescription": "Baumaschinen & Kompressoren- alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Baumaschinen & Baugeräte Shop",
-            "metaDescription": "Baumaschinen & Baugeräte Shop - Hier findest du alles für dein Bauvorhaben!",
+            "title": "Baumaschinen & Kompressoren | Shop",
+            "metaDescription": "Baumaschinen & Kompressoren - Hier findest du alles für dein Bauvorhaben! Top Kompressoren, Baumaschinen und Zubehör für deine Spezialmaschinen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Baumaschinen & Baugeräte - Manufacturer",
-            "metaDescription": "Baumaschinen & Baugeräte - Finden Sie hier die passende Baumaschine oder das passende Baugerät für Ihren Bedarf. Vom Hersteller direkt kaufen und sparen!",
+            "title": "Hersteller für Bau- und Spezialmaschinen sowie Kompressoren",
+            "metaDescription": "Alle Hersteller für Baumaschinen, Spezialmaschinen, und Kompressoren sowie Zubehör im Überblick. Günstig online bestellen. Schnell geliefert.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Baumaschinen & Baugeräte: $PRODUKT",
-        "defaultMetaDescription": "Baumaschinen & Baugeräte von $HERSTELLER. Kaufen Sie $PRODUKT für Ihren nächsten Bauprojekt. Wir haben die beste Auswahl an $KATEGORIE.",
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Viele weitere Maschinen und Zubehör aus der Kategorie $KATEGORIE. Günstig und schnell geliefert.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Baumaschinen & Baugeräte $KATEGORIE",
-        "defaultMetaDescription": "Baumaschinen & Baugeräte für jeden Bedarf. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Top Produkte aus der Kategorie $KATEGORIE in unserem Online Shop günstig kaufen. Nur Top Produkte. Schnell und günstig geliefert.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Baumaschinen & Baugeräte von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1!",
+        "defaultTitle": "Baumaschinen & Kompressoren von $HERSTELLER",
+        "defaultMetaDescription": "Baumaschinen & Kompressoren von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1 für Baumaschinen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
