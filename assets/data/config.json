@@ -52,11 +52,31 @@
             "metaDescription": "Baumaschinen & Kompressoren- alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Baumaschinen & Baugeräte: Alles für Ihren Bau!",
-                        "text": "Baumaschinen und Baugeräte sind unerlässlich für die Durchführung von Bauprojekten aller Art. Sie erleichtern die Arbeit und ermöglichen es, große und komplexe Bauvorhaben zu realisieren.\n\nBaumaschinen umfassen eine Vielzahl verschiedener Geräte, die für verschiedene Arbeiten im Zusammenhang mit dem Bau eingesetzt werden. Dazu gehören Bagger, Kran, Radlader, Raupen und Bauwagen. Jede dieser Maschinen hat ihre eigenen spezifischen Funktionen und Einsatzmöglichkeiten.\n\nBaugeräte sind kleinere Geräte, die für die Durchführung von Bauarbeiten aller Art eingesetzt werden. Dazu gehören Handwerkszeuge wie Hammer, Meißel, Säge, Schaufel, Spitzhacke und Kehrmaschine. Auch Geräte wie Bohrmaschine, Kompressor, Generator, Hebebühne und Laserschneider zählen zu den Baugeräten.\n\nBaumaschinen und Baugeräte sind in der Regel auf Baustellen zu finden. Sie werden dort eingesetzt, um die Arbeiten zu erleichtern und die Bauprojekte voranzutreiben. Oft sind mehrere Maschinen und Geräte gleichzeitig auf einer Baustelle im Einsatz. So können die Arbeiten schneller und effizienter durchgeführt werden."
+                        "title": "Willkommen bei Baumaschinen & Baugeräte - Ihr Experte für Baumaschinen und Baugeräte",
+                        "text": "Herzlich willkommen bei Baumaschinen & Baugeräte, Ihrem Online-Shop für hochwertige Baumaschinen und Baugeräte. Wir bieten Ihnen eine große Auswahl an Kompressoren, Kompressorenzubehör, Spezialmaschinen und Baumaschinen, die Ihnen bei Ihren Baustellen und Projekten eine effiziente und sichere Arbeit ermöglichen. Ob Sie einen Kompressor benötigen, der robust und leistungsstark ist, oder Zubehör, das Ihren Kompressor optimieren kann, bei uns werden Sie fündig. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und erfüllen höchste Qualitätsstandards. Stöbern Sie in unserem Sortiment und entdecken Sie die vielen Möglichkeiten, wie Sie Ihre Baustellen und Projekte verbessern und erleichtern können. Bestellen Sie bequem und sicher online und freuen Sie sich auf eine schnelle Lieferung. Wir freuen uns darauf, Sie zufriedenstellen zu können!"
+                    },
+                    {
+                        "title": "Kompressoren & Zubehör - das perfekte Duo für Ihre Baustellen und Projekte",
+                        "text": "Ein Kompressor und das passende Zubehör sind unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren und Zubehör, die robust, leistungsstark und zuverlässig sind. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem perfekten Duo aus Kompressor und Zubehör können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+                    },
+                    {
+                        "title": "Kompressoren - robust, leistungsstark und zuverlässig",
+                        "text": "Ein robust und leistungsstarker Kompressor ist unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren, die zuverlässig und effizient arbeiten. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit einem neuen Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+                    },
+                    {
+                        "title": "Spezialmaschinen - für besondere Anforderungen auf Ihren Baustellen",
+                        "text": "Für besondere Anforderungen auf Ihren Baustellen benötigen Sie spezielle Maschinen. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Spezialmaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Spezialmaschinen können Sie jede Herausforderung meistern."
+                    },
+                    {
+                        "title": "Baumaschinen - für eine effiziente und sichere Arbeit auf Ihren Baustellen",
+                        "text": "Eine effiziente und sichere Arbeit auf Ihren Baustellen ist durch die richtigen Baumaschinen gewährleistet. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Baumaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Baumaschinen können Sie jede Herausforderung meistern."
+                    },
+                    {
+                        "title": "Zubehör für Kompressoren - optimieren Sie Ihre Baustellen und Projekte",
+                        "text": "Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte optimieren. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Zubehör für Kompressoren, das Ihren Kompressor verbessern und optimieren kann. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
                     }
                 ]
             }
