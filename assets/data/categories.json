@@ -2,7 +2,7 @@
     {
         "key": "kompressoren & zubehör",
         "name": "Kompressoren & Zubehör",
-        "slug": "kompressoren-zubehor",
+        "slug": "kompressoren-zubehoer",
         "productCategory": "Kompressoren & Zubehör",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "zubehör für kompressoren",
         "name": "Zubehör für Kompressoren",
-        "slug": "zubehor-fur-kompressoren",
+        "slug": "zubehoer-fuer-kompressoren",
         "productCategory": "Zubehör für Kompressoren",
         "subCategories": []
     }
