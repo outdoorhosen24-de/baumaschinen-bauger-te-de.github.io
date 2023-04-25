@@ -1,184 +1,187 @@
 {
-    "configIsReady": true,
-    "domain": "baumaschinen-baugeräte.de",
-    "hostname": "https://www.baumaschinen-baugeräte.de/",
-    "email": "baumaschinen-baugeräte.de@surrealnetworks.io",
-    "organization": "baumaschinen-baugeräte.de",
-    "logoText": "Baumaschinen-baugeräte.de",
-    "title": "Baumaschinen & Kompressoren",
-    "subline": "Baumaschinen & Kompressoren günstig bestellen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9328279",
-        "8331472",
-        "5543442",
-        "5251285",
-        "4470902",
-        "4347902"
-    ],
-    "winnerProducts": [
-        "7348907",
-        "8632077",
-        "4220364"
-    ],
-    "featuredCategories": [
-        "Spezialmaschinen",
-        "Kompressoren",
-        "Baumaschinen",
-        "Spezialmaschinen",
-        "Kompressoren & Zubehör",
-        "Baumaschinen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Baumaschinen & Baugeräte",
-        "featureText": "Wir sind ein Online-Shop, der sich auf Baumaschinen und Kompressoren spezialisiert hat. Für den privaten und gewerblichen Bereich führen wir eine große Auswahl an Baumaschinen und Kompressoren. Unsere Mitarbeiterinnen und Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der für Sie am besten geeigneten Geräte.",
-        "index": {
-            "title": "Baumaschinen & Kompressoren- Alles für Ihren Bau!",
-            "metaDescription": "Baumaschinen & Kompressoren- alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Baumaschinen & Baugeräte - Ihr Experte für Baumaschinen und Baugeräte",
-                        "text": "Herzlich willkommen bei Baumaschinen & Baugeräte, Ihrem Online-Shop für hochwertige Baumaschinen und Baugeräte. Wir bieten Ihnen eine große Auswahl an Kompressoren, Kompressorenzubehör, Spezialmaschinen und Baumaschinen, die Ihnen bei Ihren Baustellen und Projekten eine effiziente und sichere Arbeit ermöglichen. Ob Sie einen Kompressor benötigen, der robust und leistungsstark ist, oder Zubehör, das Ihren Kompressor optimieren kann, bei uns werden Sie fündig. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und erfüllen höchste Qualitätsstandards. Stöbern Sie in unserem Sortiment und entdecken Sie die vielen Möglichkeiten, wie Sie Ihre Baustellen und Projekte verbessern und erleichtern können. Bestellen Sie bequem und sicher online und freuen Sie sich auf eine schnelle Lieferung. Wir freuen uns darauf, Sie zufriedenstellen zu können!"
-                    },
-                    {
-                        "title": "Kompressoren & Zubehör - das perfekte Duo für Ihre Baustellen und Projekte",
-                        "text": "Ein Kompressor und das passende Zubehör sind unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren und Zubehör, die robust, leistungsstark und zuverlässig sind. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem perfekten Duo aus Kompressor und Zubehör können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-                    },
-                    {
-                        "title": "Kompressoren - robust, leistungsstark und zuverlässig",
-                        "text": "Ein robust und leistungsstarker Kompressor ist unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren, die zuverlässig und effizient arbeiten. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit einem neuen Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-                    },
-                    {
-                        "title": "Spezialmaschinen - für besondere Anforderungen auf Ihren Baustellen",
-                        "text": "Für besondere Anforderungen auf Ihren Baustellen benötigen Sie spezielle Maschinen. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Spezialmaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Spezialmaschinen können Sie jede Herausforderung meistern."
-                    },
-                    {
-                        "title": "Baumaschinen - für eine effiziente und sichere Arbeit auf Ihren Baustellen",
-                        "text": "Eine effiziente und sichere Arbeit auf Ihren Baustellen ist durch die richtigen Baumaschinen gewährleistet. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Baumaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Baumaschinen können Sie jede Herausforderung meistern."
-                    },
-                    {
-                        "title": "Zubehör für Kompressoren - optimieren Sie Ihre Baustellen und Projekte",
-                        "text": "Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte optimieren. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Zubehör für Kompressoren, das Ihren Kompressor verbessern und optimieren kann. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Baumaschinen & Kompressoren | Shop",
-            "metaDescription": "Baumaschinen & Kompressoren - Hier findest du alles für dein Bauvorhaben! Top Kompressoren, Baumaschinen und Zubehör für deine Spezialmaschinen.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller für Bau- und Spezialmaschinen sowie Kompressoren",
-            "metaDescription": "Alle Hersteller für Baumaschinen, Spezialmaschinen, und Kompressoren sowie Zubehör im Überblick. Günstig online bestellen. Schnell geliefert.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Viele weitere Maschinen und Zubehör aus der Kategorie $KATEGORIE. Günstig und schnell geliefert.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "baumaschinen-bauger\u00e4te.de",
+  "hostname": "https://www.baumaschinen-bauger\u00e4te.de/",
+  "email": "baumaschinen-bauger\u00e4te.de@surrealnetworks.io",
+  "organization": "baumaschinen-bauger\u00e4te.de",
+  "logoText": "Baumaschinen-bauger\u00e4te.de",
+  "title": "Baumaschinen & Kompressoren",
+  "subline": "Baumaschinen & Kompressoren g\u00fcnstig bestellen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9328279",
+    "8331472",
+    "5543442",
+    "5251285",
+    "4470902",
+    "4347902"
+  ],
+  "winnerProducts": [
+    "7348907",
+    "8632077",
+    "4220364"
+  ],
+  "featuredCategories": [
+    "Spezialmaschinen",
+    "Kompressoren",
+    "Baumaschinen",
+    "Spezialmaschinen",
+    "Kompressoren & Zubeh\u00f6r",
+    "Baumaschinen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Baumaschinen & Bauger\u00e4te",
+    "featureText": "Wir sind ein Online-Shop, der sich auf Baumaschinen und Kompressoren spezialisiert hat. F\u00fcr den privaten und gewerblichen Bereich f\u00fchren wir eine gro\u00dfe Auswahl an Baumaschinen und Kompressoren. Unsere Mitarbeiterinnen und Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der f\u00fcr Sie am besten geeigneten Ger\u00e4te.",
+    "index": {
+      "title": "Baumaschinen & Kompressoren- Alles f\u00fcr Ihren Bau!",
+      "metaDescription": "Baumaschinen & Kompressoren- alles f\u00fcr Ihren Bau. Kompetente Beratung, gro\u00dfe Auswahl, g\u00fcnstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Baumaschinen & Bauger\u00e4te - Ihr Experte f\u00fcr Baumaschinen und Bauger\u00e4te",
+            "text": "Herzlich willkommen bei Baumaschinen & Bauger\u00e4te, Ihrem Online-Shop f\u00fcr hochwertige Baumaschinen und Bauger\u00e4te. Wir bieten Ihnen eine gro\u00dfe Auswahl an Kompressoren, Kompressorenzubeh\u00f6r, Spezialmaschinen und Baumaschinen, die Ihnen bei Ihren Baustellen und Projekten eine effiziente und sichere Arbeit erm\u00f6glichen. Ob Sie einen Kompressor ben\u00f6tigen, der robust und leistungsstark ist, oder Zubeh\u00f6r, das Ihren Kompressor optimieren kann, bei uns werden Sie f\u00fcndig. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und erf\u00fcllen h\u00f6chste Qualit\u00e4tsstandards. St\u00f6bern Sie in unserem Sortiment und entdecken Sie die vielen M\u00f6glichkeiten, wie Sie Ihre Baustellen und Projekte verbessern und erleichtern k\u00f6nnen. Bestellen Sie bequem und sicher online und freuen Sie sich auf eine schnelle Lieferung. Wir freuen uns darauf, Sie zufriedenstellen zu k\u00f6nnen!"
+          },
+          {
+            "title": "Kompressoren & Zubeh\u00f6r - das perfekte Duo f\u00fcr Ihre Baustellen und Projekte",
+            "text": "Ein Kompressor und das passende Zubeh\u00f6r sind unverzichtbar f\u00fcr jede Baustelle oder jedes Projekt. Bei Baumaschinen & Bauger\u00e4te finden Sie eine gro\u00dfe Auswahl an Kompressoren und Zubeh\u00f6r, die robust, leistungsstark und zuverl\u00e4ssig sind. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem perfekten Duo aus Kompressor und Zubeh\u00f6r k\u00f6nnen Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+          },
+          {
+            "title": "Kompressoren - robust, leistungsstark und zuverl\u00e4ssig",
+            "text": "Ein robust und leistungsstarker Kompressor ist unverzichtbar f\u00fcr jede Baustelle oder jedes Projekt. Bei Baumaschinen & Bauger\u00e4te finden Sie eine gro\u00dfe Auswahl an Kompressoren, die zuverl\u00e4ssig und effizient arbeiten. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit einem neuen Kompressor k\u00f6nnen Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+          },
+          {
+            "title": "Spezialmaschinen - f\u00fcr besondere Anforderungen auf Ihren Baustellen",
+            "text": "F\u00fcr besondere Anforderungen auf Ihren Baustellen ben\u00f6tigen Sie spezielle Maschinen. Bei Baumaschinen & Bauger\u00e4te finden Sie eine gro\u00dfe Auswahl an Spezialmaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit erm\u00f6glichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Spezialmaschinen k\u00f6nnen Sie jede Herausforderung meistern."
+          },
+          {
+            "title": "Baumaschinen - f\u00fcr eine effiziente und sichere Arbeit auf Ihren Baustellen",
+            "text": "Eine effiziente und sichere Arbeit auf Ihren Baustellen ist durch die richtigen Baumaschinen gew\u00e4hrleistet. Bei Baumaschinen & Bauger\u00e4te finden Sie eine gro\u00dfe Auswahl an Baumaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit erm\u00f6glichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Baumaschinen k\u00f6nnen Sie jede Herausforderung meistern."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Kompressoren - optimieren Sie Ihre Baustellen und Projekte",
+            "text": "Mit dem richtigen Zubeh\u00f6r f\u00fcr Ihren Kompressor k\u00f6nnen Sie Ihre Baustellen und Projekte optimieren. Bei Baumaschinen & Bauger\u00e4te finden Sie eine gro\u00dfe Auswahl an Zubeh\u00f6r f\u00fcr Kompressoren, das Ihren Kompressor verbessern und optimieren kann. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem richtigen Zubeh\u00f6r f\u00fcr Ihren Kompressor k\u00f6nnen Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Shop",
-        "defaultMetaDescription": "Top Produkte aus der Kategorie $KATEGORIE in unserem Online Shop günstig kaufen. Nur Top Produkte. Schnell und günstig geliefert.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Baumaschinen & Kompressoren | Shop",
+      "metaDescription": "Baumaschinen & Kompressoren - Hier findest du alles f\u00fcr dein Bauvorhaben! Top Kompressoren, Baumaschinen und Zubeh\u00f6r f\u00fcr deine Spezialmaschinen.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Baumaschinen & Kompressoren von $HERSTELLER",
-        "defaultMetaDescription": "Baumaschinen & Kompressoren von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1 für Baumaschinen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Baumaschinen & Baugeräte",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Baumaschinen & Baugeräte Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Baumaschinen & Baugeräte Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller f\u00fcr Bau- und Spezialmaschinen sowie Kompressoren",
+      "metaDescription": "Alle Hersteller f\u00fcr Baumaschinen, Spezialmaschinen, und Kompressoren sowie Zubeh\u00f6r im \u00dcberblick. G\u00fcnstig online bestellen. Schnell geliefert.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Viele weitere Maschinen und Zubeh\u00f6r aus der Kategorie $KATEGORIE. G\u00fcnstig und schnell geliefert.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Shop",
+    "defaultMetaDescription": "Top Produkte aus der Kategorie $KATEGORIE in unserem Online Shop g\u00fcnstig kaufen. Nur Top Produkte. Schnell und g\u00fcnstig geliefert.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Baumaschinen & Kompressoren von $HERSTELLER",
+    "defaultMetaDescription": "Baumaschinen & Kompressoren von $HERSTELLER - f\u00fchrend in Innovation und Qualit\u00e4t. Kaufen Sie jetzt online bei der Nr.1 f\u00fcr Baumaschinen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Baumaschinen & Bauger\u00e4te",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Baumaschinen & Bauger\u00e4te Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Baumaschinen & Bauger\u00e4te Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
