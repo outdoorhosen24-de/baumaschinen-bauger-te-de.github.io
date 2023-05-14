@@ -1,220 +1,227 @@
 {
-  "configIsReady": true,
-  "domain": "baumaschinen-baugeräte.de",
-  "hostname": "https://www.baumaschinen-baugeräte.de/",
-  "email": "baumaschinen-baugeräte.de@surrealnetworks.io",
-  "organization": "baumaschinen-baugeräte.de",
-  "logoText": "Baumaschinen-baugeräte.de",
-  "title": "Baumaschinen & Kompressoren",
-  "subline": "Baumaschinen & Kompressoren günstig bestellen",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "9328279",
-    "8331472",
-    "5543442",
-    "5251285",
-    "4470902",
-    "4347902"
-  ],
-  "winnerProducts": [
-    "7348907",
-    "8632077",
-    "4220364"
-  ],
-  "featuredCategories": [
-    "Spezialmaschinen",
-    "Kompressoren",
-    "Baumaschinen",
-    "Spezialmaschinen",
-    "Kompressoren & Zubehör",
-    "Baumaschinen"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Baumaschinen & Baugeräte",
-    "featureText": "Wir sind ein Online-Shop, der sich auf Baumaschinen und Kompressoren spezialisiert hat. Für den privaten und gewerblichen Bereich führen wir eine große Auswahl an Baumaschinen und Kompressoren. Unsere Mitarbeiterinnen und Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der für Sie am besten geeigneten Geräte.",
-    "index": {
-      "title": "Baumaschinen & Kompressoren- Alles für Ihren Bau!",
-      "metaDescription": "Baumaschinen & Kompressoren- alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Baumaschinen & Baugeräte - Ihr Experte für Baumaschinen und Baugeräte",
-            "text": "Herzlich willkommen bei Baumaschinen & Baugeräte, Ihrem Online-Shop für hochwertige Baumaschinen und Baugeräte. Wir bieten Ihnen eine große Auswahl an Kompressoren, Kompressorenzubehör, Spezialmaschinen und Baumaschinen, die Ihnen bei Ihren Baustellen und Projekten eine effiziente und sichere Arbeit ermöglichen. Ob Sie einen Kompressor benötigen, der robust und leistungsstark ist, oder Zubehör, das Ihren Kompressor optimieren kann, bei uns werden Sie fündig. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und erfüllen höchste Qualitätsstandards. Stöbern Sie in unserem Sortiment und entdecken Sie die vielen Möglichkeiten, wie Sie Ihre Baustellen und Projekte verbessern und erleichtern können. Bestellen Sie bequem und sicher online und freuen Sie sich auf eine schnelle Lieferung. Wir freuen uns darauf, Sie zufriedenstellen zu können!"
-          },
-          {
-            "title": "Kompressoren & Zubehör - das perfekte Duo für Ihre Baustellen und Projekte",
-            "text": "Ein Kompressor und das passende Zubehör sind unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren und Zubehör, die robust, leistungsstark und zuverlässig sind. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem perfekten Duo aus Kompressor und Zubehör können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-          },
-          {
-            "title": "Kompressoren - robust, leistungsstark und zuverlässig",
-            "text": "Ein robust und leistungsstarker Kompressor ist unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren, die zuverlässig und effizient arbeiten. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit einem neuen Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-          },
-          {
-            "title": "Spezialmaschinen - für besondere Anforderungen auf Ihren Baustellen",
-            "text": "Für besondere Anforderungen auf Ihren Baustellen benötigen Sie spezielle Maschinen. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Spezialmaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Spezialmaschinen können Sie jede Herausforderung meistern."
-          },
-          {
-            "title": "Baumaschinen - für eine effiziente und sichere Arbeit auf Ihren Baustellen",
-            "text": "Eine effiziente und sichere Arbeit auf Ihren Baustellen ist durch die richtigen Baumaschinen gewährleistet. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Baumaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Baumaschinen können Sie jede Herausforderung meistern."
-          },
-          {
-            "title": "Zubehör für Kompressoren - optimieren Sie Ihre Baustellen und Projekte",
-            "text": "Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte optimieren. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Zubehör für Kompressoren, das Ihren Kompressor verbessern und optimieren kann. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "baumaschinen-baugeräte.de",
+    "hostname": "https://www.baumaschinen-baugeräte.de/",
+    "email": "baumaschinen-baugeräte.de@surrealnetworks.io",
+    "organization": "baumaschinen-baugeräte.de",
+    "logoText": "Baumaschinen-baugeräte.de",
+    "title": "Baumaschinen & Kompressoren",
+    "subline": "Baumaschinen & Kompressoren günstig bestellen",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "9328279",
+        "8331472",
+        "5543442",
+        "5251285",
+        "4470902",
+        "4347902"
+    ],
+    "winnerProducts": [
+        "7348907",
+        "8632077",
+        "4220364"
+    ],
+    "featuredCategories": [
+        "Spezialmaschinen",
+        "Kompressoren",
+        "Baumaschinen",
+        "Spezialmaschinen",
+        "Kompressoren & Zubehör",
+        "Baumaschinen"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Baumaschinen & Baugeräte",
+        "featureText": "Wir sind ein Online-Shop, der sich auf Baumaschinen und Kompressoren spezialisiert hat. Für den privaten und gewerblichen Bereich führen wir eine große Auswahl an Baumaschinen und Kompressoren. Unsere Mitarbeiterinnen und Mitarbeiter sind fachkundig und beraten Sie gerne bei der Auswahl der für Sie am besten geeigneten Geräte.",
+        "index": {
+            "title": "Baumaschinen & Kompressoren- Alles für Ihren Bau!",
+            "metaDescription": "Baumaschinen & Kompressoren- alles für Ihren Bau. Kompetente Beratung, große Auswahl, günstige Preise und eine schnelle Lieferung. Jetzt shoppen.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Baumaschinen & Baugeräte - Ihr Experte für Baumaschinen und Baugeräte",
+                        "text": "Herzlich willkommen bei Baumaschinen & Baugeräte, Ihrem Online-Shop für hochwertige Baumaschinen und Baugeräte. Wir bieten Ihnen eine große Auswahl an Kompressoren, Kompressorenzubehör, Spezialmaschinen und Baumaschinen, die Ihnen bei Ihren Baustellen und Projekten eine effiziente und sichere Arbeit ermöglichen. Ob Sie einen Kompressor benötigen, der robust und leistungsstark ist, oder Zubehör, das Ihren Kompressor optimieren kann, bei uns werden Sie fündig. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und erfüllen höchste Qualitätsstandards. Stöbern Sie in unserem Sortiment und entdecken Sie die vielen Möglichkeiten, wie Sie Ihre Baustellen und Projekte verbessern und erleichtern können. Bestellen Sie bequem und sicher online und freuen Sie sich auf eine schnelle Lieferung. Wir freuen uns darauf, Sie zufriedenstellen zu können!"
+                    },
+                    {
+                        "title": "Kompressoren & Zubehör - das perfekte Duo für Ihre Baustellen und Projekte",
+                        "text": "Ein Kompressor und das passende Zubehör sind unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren und Zubehör, die robust, leistungsstark und zuverlässig sind. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem perfekten Duo aus Kompressor und Zubehör können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+                    },
+                    {
+                        "title": "Kompressoren - robust, leistungsstark und zuverlässig",
+                        "text": "Ein robust und leistungsstarker Kompressor ist unverzichtbar für jede Baustelle oder jedes Projekt. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Kompressoren, die zuverlässig und effizient arbeiten. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit einem neuen Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+                    },
+                    {
+                        "title": "Spezialmaschinen - für besondere Anforderungen auf Ihren Baustellen",
+                        "text": "Für besondere Anforderungen auf Ihren Baustellen benötigen Sie spezielle Maschinen. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Spezialmaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Spezialmaschinen können Sie jede Herausforderung meistern."
+                    },
+                    {
+                        "title": "Baumaschinen - für eine effiziente und sichere Arbeit auf Ihren Baustellen",
+                        "text": "Eine effiziente und sichere Arbeit auf Ihren Baustellen ist durch die richtigen Baumaschinen gewährleistet. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Baumaschinen, die Ihnen bei Ihren Projekten eine effiziente und sichere Arbeit ermöglichen. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit den richtigen Baumaschinen können Sie jede Herausforderung meistern."
+                    },
+                    {
+                        "title": "Zubehör für Kompressoren - optimieren Sie Ihre Baustellen und Projekte",
+                        "text": "Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte optimieren. Bei Baumaschinen & Baugeräte finden Sie eine große Auswahl an Zubehör für Kompressoren, das Ihren Kompressor verbessern und optimieren kann. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online. Mit dem richtigen Zubehör für Ihren Kompressor können Sie Ihre Baustellen und Projekte effizient und sicher umsetzen."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Baumaschinen & Kompressoren | Shop",
+            "metaDescription": "Baumaschinen & Kompressoren - Hier findest du alles für dein Bauvorhaben! Top Kompressoren, Baumaschinen und Zubehör für deine Spezialmaschinen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Hersteller für Bau- und Spezialmaschinen sowie Kompressoren",
+            "metaDescription": "Alle Hersteller für Baumaschinen, Spezialmaschinen, und Kompressoren sowie Zubehör im Überblick. Günstig online bestellen. Schnell geliefert.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Baumaschinen & Kompressoren | Shop",
-      "metaDescription": "Baumaschinen & Kompressoren - Hier findest du alles für dein Bauvorhaben! Top Kompressoren, Baumaschinen und Zubehör für deine Spezialmaschinen.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Hersteller für Bau- und Spezialmaschinen sowie Kompressoren",
-      "metaDescription": "Alle Hersteller für Baumaschinen, Spezialmaschinen, und Kompressoren sowie Zubehör im Überblick. Günstig online bestellen. Schnell geliefert.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Viele weitere Maschinen und Zubehör aus der Kategorie $KATEGORIE. Günstig und schnell geliefert.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "7348907",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER. Viele weitere Maschinen und Zubehör aus der Kategorie $KATEGORIE. Günstig und schnell geliefert.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Einhell Druckluftset Profi 5-tlg.",
-              "text": "<p class=\"justify\">Das Einhell Druckluftset Profi 5-tlg. ist ein hochwertiges und vielseitiges Set für alle, die auf der Suche nach Kompressor-Zubehör sind. Mit diesem 5-teiligen Set der Marke Einhell können Sie verschiedene Aufgaben rund um das Haus oder in der Werkstatt problemlos erledigen. Das Druckluft-Set enthält eine Spritzpistole mit Fließbecher, eine Druckluftpistole und ein Reifenfüllmessgerät mit Manometer. Außerdem gehört ein 4 Meter langer Spiralschlauch zum Lieferumfang.</p><p class=\"justify\">Das Einhell Druckluftset Profi 5-tlg. besteht aus verschiedenen Werkzeugen, die für Kompressoren verwendet werden können. Die Spritzpistole mit Fließbecher hat einen Betriebsdruck von 3 bis 4 bar und ein Behältervolumen von 0,6 Litern. Die Sprühpistole mit Saugbecher hat einen Betriebsdruck von 3,5 bar und ein Behältervolumen von 0,9 Litern. Das Reifenfüllmessgerät mit Manometer kann für einen Betriebsdruck von 0 bis 8 bar verwendet werden. Die Ausblaspistole hat einen Betriebsdruck von 3 bis 8 bar.</p><p class=\"justify\">Mit dem Einhell Druckluftset Profi 5-tlg. können vielfältige Arbeiten durchgeführt werden, wie beispielsweise das Aufpumpen von Reifen, das Ausblasen von Werkstücken oder das Sprühen von Farbe. Dank des Reifenfüllmessgeräts können Sie den Reifendruck präzise überprüfen und anpassen, um die Fahrsicherheit zu erhöhen. Das Set ist ideal für Heimwerker und für den Einsatz in Kfz-Werkstätten oder Industrieanwendungen.</p><p class=\"justify\">Das Druckluftset von Einhell ist eine hervorragende Ergänzung für Ihre Werkstatt und ermöglicht den Einsatz Ihrer Kompressoren für unterschiedliche Anwendungen. Erleichtern Sie sich Ihre Arbeit mit dem Einhell Druckluftset Profi 5-tlg. und nutzen Sie die Vielseitigkeit dieses Sets für Ihre Projekte.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8632077",
-        "seo": {
-          "texts": [
-            {
-              "title": "Hyundai Silent Kompressor SAC55751 - Leistungsstark und leise",
-              "text": "<p class=\"justify\">Der Hyundai Silent Kompressor SAC55751 ist ein äußerst leistungsstarkes und gleichzeitig leises Gerät aus dem Hause Hyundai. Mit seiner überragenden Qualität ist er bestens für den Einsatz in Haushalt, Labor, Werkstatt oder Garage geeignet. Er zeichnet sich durch seine geringe Geräuschentwicklung aus, die kaum lauter als ein normales Gespräch ist.</p><p class=\"justify\">Der 6-Liter-Druckbehälter des SAC55751 verfügt über einen maximalen Betriebsdruck von 8 bar. Die Ansaugleistung beträgt 93 l/min und die Motorleistung liegt bei 0,55 kW (0,75 PS). Der Druckluftkompressor ist ölfrei und wartungsarm, was den Nutzen für den Anwender weiter erhöht. Mit Hilfe des integrierten Manometers und Druckminderers kann der Arbeitsdruck leicht reguliert werden, während ein weiteres Manometer den Kesseldruck leicht ablesbar macht.</p><p class=\"justify\">Mit seinen kompakten Maßen und einem Gewicht von nur 15 kg stellt der Hyundai Silent Kompressor SAC55751 ein leichtes und tragbares Gerät dar. Dank seines praktischen Handgriffs ist er einfach zu transportieren und somit äußerst mobil. Der Druckkessel ist durch eine hochwertige Pulverbeschichtung optimal vor Korrosion geschützt und bietet einen langanhaltenden Schutz vor Umwelteinflüssen.</p><p class=\"justify\">Zusätzliche Sicherheitsfunktionen wie eine eingebaute Anlaufentlastung und ein Überlastschutz verhindern eine Überhitzung des Motors und sorgen für eine lange Lebensdauer. Der Hyundai Silent Kompressor SAC55751 gehört mit seinen herausragenden Eigenschaften, seiner Leistung und seinem leisen Betrieb zu den idealen Druckluftkompressoren für verschiedenste Einsatzbereiche. Vertrauen Sie auf die Qualität von Hyundai und setzen Sie auf den SAC55751 für Ihre Druckluftarbeiten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4220364",
-        "seo": {
-          "texts": [
-            {
-              "title": "Metabo Kompressor Basic 250-50 W: Ein leistungsstarkes und robustes Gerät für gewerbliche Anwendungen",
-              "text": "<p class=\"justify\">Der Metabo Kompressor Basic 250-50 W ist ein hochwertiges Produkt der Marke Metabo, einem der führenden Hersteller für Kompressoren und Baugeräte. Dieser leistungsstarke und robuste Kompressor eignet sich hervorragend für einfache, gewerbliche Anwendungen und bietet dank seines verstellbaren Arbeitsdrucks viele Einsatzmöglichkeiten. Der Druck lässt sich mittels Druckminderer regeln, und der Kesseldruck wird über ein zusätzliches Manometer angezeigt.</p><p class=\"justify\">Einer der großen Vorteile dieses Modells ist der gute Kaltstart, der durch einen Druckschalter mit Entlastungsventil ermöglicht wird. Der integrierte Überlastschutz verhindert eine Überhitzung des Motors, was für eine längere Lebensdauer und dauerhafte Leistung sorgt. Die gummierten, stabilen Räder und der gummierte Zuggriff ermöglichen einen mobilen Einsatz und sorgen für eine komfortable Handhabung.</p><p class=\"justify\">Der Metabo Kompressor Basic 250-50 W verfügt über einen ölgeschmierten Kolbenverdichter und ist für den Betrieb mit Einphasen-Wechselstrom ausgelegt. Eine Prüfung vor Inbetriebnahme ist nicht notwendig und erleichtert somit den schnellen Einsatz des Kompressors. Die technischen Daten sind beeindruckend: Eine Füllleistung von 110 Litern pro Minute, eine effektive Liefermenge bei 80 % des maximalen Drucks von 95 Litern pro Minute, eine Nennaufnahmeleistung von 1,5 kW und eine maximale Drehzahl von 2850 Umdrehungen pro Minute. Der Schalldruckpegel beträgt 97 dB(A), und das Gerät verfügt über eine Kabellänge von 1,5 Metern.</p><p class=\"justify\">Im Lieferumfang des Metabo Kompressors Basic 250-50 W sind neben dem Gerät selbst auch eine Universal-Schnellkupplung und ein Zuggriff mit Gummierung enthalten. Mit seiner hervorragenden Leistung und Benutzerfreundlichkeit ist dieser Kompressor definitiv eine Empfehlung für alle, die eine zuverlässige Lösung für gewerbliche Anwendungen suchen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Shop",
-    "defaultMetaDescription": "Top Produkte aus der Kategorie $KATEGORIE in unserem Online Shop günstig kaufen. Nur Top Produkte. Schnell und günstig geliefert.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "7348907",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Einhell Druckluftset Profi 5-tlg.",
+                            "text": "<p class=\"justify\">Das Einhell Druckluftset Profi 5-tlg. ist ein hochwertiges und vielseitiges Set für alle, die auf der Suche nach Kompressor-Zubehör sind. Mit diesem 5-teiligen Set der Marke Einhell können Sie verschiedene Aufgaben rund um das Haus oder in der Werkstatt problemlos erledigen. Das Druckluft-Set enthält eine Spritzpistole mit Fließbecher, eine Druckluftpistole und ein Reifenfüllmessgerät mit Manometer. Außerdem gehört ein 4 Meter langer Spiralschlauch zum Lieferumfang.</p><p class=\"justify\">Das Einhell Druckluftset Profi 5-tlg. besteht aus verschiedenen Werkzeugen, die für Kompressoren verwendet werden können. Die Spritzpistole mit Fließbecher hat einen Betriebsdruck von 3 bis 4 bar und ein Behältervolumen von 0,6 Litern. Die Sprühpistole mit Saugbecher hat einen Betriebsdruck von 3,5 bar und ein Behältervolumen von 0,9 Litern. Das Reifenfüllmessgerät mit Manometer kann für einen Betriebsdruck von 0 bis 8 bar verwendet werden. Die Ausblaspistole hat einen Betriebsdruck von 3 bis 8 bar.</p><p class=\"justify\">Mit dem Einhell Druckluftset Profi 5-tlg. können vielfältige Arbeiten durchgeführt werden, wie beispielsweise das Aufpumpen von Reifen, das Ausblasen von Werkstücken oder das Sprühen von Farbe. Dank des Reifenfüllmessgeräts können Sie den Reifendruck präzise überprüfen und anpassen, um die Fahrsicherheit zu erhöhen. Das Set ist ideal für Heimwerker und für den Einsatz in Kfz-Werkstätten oder Industrieanwendungen.</p><p class=\"justify\">Das Druckluftset von Einhell ist eine hervorragende Ergänzung für Ihre Werkstatt und ermöglicht den Einsatz Ihrer Kompressoren für unterschiedliche Anwendungen. Erleichtern Sie sich Ihre Arbeit mit dem Einhell Druckluftset Profi 5-tlg. und nutzen Sie die Vielseitigkeit dieses Sets für Ihre Projekte.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8632077",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Hyundai Silent Kompressor SAC55751 - Leistungsstark und leise",
+                            "text": "<p class=\"justify\">Der Hyundai Silent Kompressor SAC55751 ist ein äußerst leistungsstarkes und gleichzeitig leises Gerät aus dem Hause Hyundai. Mit seiner überragenden Qualität ist er bestens für den Einsatz in Haushalt, Labor, Werkstatt oder Garage geeignet. Er zeichnet sich durch seine geringe Geräuschentwicklung aus, die kaum lauter als ein normales Gespräch ist.</p><p class=\"justify\">Der 6-Liter-Druckbehälter des SAC55751 verfügt über einen maximalen Betriebsdruck von 8 bar. Die Ansaugleistung beträgt 93 l/min und die Motorleistung liegt bei 0,55 kW (0,75 PS). Der Druckluftkompressor ist ölfrei und wartungsarm, was den Nutzen für den Anwender weiter erhöht. Mit Hilfe des integrierten Manometers und Druckminderers kann der Arbeitsdruck leicht reguliert werden, während ein weiteres Manometer den Kesseldruck leicht ablesbar macht.</p><p class=\"justify\">Mit seinen kompakten Maßen und einem Gewicht von nur 15 kg stellt der Hyundai Silent Kompressor SAC55751 ein leichtes und tragbares Gerät dar. Dank seines praktischen Handgriffs ist er einfach zu transportieren und somit äußerst mobil. Der Druckkessel ist durch eine hochwertige Pulverbeschichtung optimal vor Korrosion geschützt und bietet einen langanhaltenden Schutz vor Umwelteinflüssen.</p><p class=\"justify\">Zusätzliche Sicherheitsfunktionen wie eine eingebaute Anlaufentlastung und ein Überlastschutz verhindern eine Überhitzung des Motors und sorgen für eine lange Lebensdauer. Der Hyundai Silent Kompressor SAC55751 gehört mit seinen herausragenden Eigenschaften, seiner Leistung und seinem leisen Betrieb zu den idealen Druckluftkompressoren für verschiedenste Einsatzbereiche. Vertrauen Sie auf die Qualität von Hyundai und setzen Sie auf den SAC55751 für Ihre Druckluftarbeiten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4220364",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Metabo Kompressor Basic 250-50 W: Ein leistungsstarkes und robustes Gerät für gewerbliche Anwendungen",
+                            "text": "<p class=\"justify\">Der Metabo Kompressor Basic 250-50 W ist ein hochwertiges Produkt der Marke Metabo, einem der führenden Hersteller für Kompressoren und Baugeräte. Dieser leistungsstarke und robuste Kompressor eignet sich hervorragend für einfache, gewerbliche Anwendungen und bietet dank seines verstellbaren Arbeitsdrucks viele Einsatzmöglichkeiten. Der Druck lässt sich mittels Druckminderer regeln, und der Kesseldruck wird über ein zusätzliches Manometer angezeigt.</p><p class=\"justify\">Einer der großen Vorteile dieses Modells ist der gute Kaltstart, der durch einen Druckschalter mit Entlastungsventil ermöglicht wird. Der integrierte Überlastschutz verhindert eine Überhitzung des Motors, was für eine längere Lebensdauer und dauerhafte Leistung sorgt. Die gummierten, stabilen Räder und der gummierte Zuggriff ermöglichen einen mobilen Einsatz und sorgen für eine komfortable Handhabung.</p><p class=\"justify\">Der Metabo Kompressor Basic 250-50 W verfügt über einen ölgeschmierten Kolbenverdichter und ist für den Betrieb mit Einphasen-Wechselstrom ausgelegt. Eine Prüfung vor Inbetriebnahme ist nicht notwendig und erleichtert somit den schnellen Einsatz des Kompressors. Die technischen Daten sind beeindruckend: Eine Füllleistung von 110 Litern pro Minute, eine effektive Liefermenge bei 80 % des maximalen Drucks von 95 Litern pro Minute, eine Nennaufnahmeleistung von 1,5 kW und eine maximale Drehzahl von 2850 Umdrehungen pro Minute. Der Schalldruckpegel beträgt 97 dB(A), und das Gerät verfügt über eine Kabellänge von 1,5 Metern.</p><p class=\"justify\">Im Lieferumfang des Metabo Kompressors Basic 250-50 W sind neben dem Gerät selbst auch eine Universal-Schnellkupplung und ein Zuggriff mit Gummierung enthalten. Mit seiner hervorragenden Leistung und Benutzerfreundlichkeit ist dieser Kompressor definitiv eine Empfehlung für alle, die eine zuverlässige Lösung für gewerbliche Anwendungen suchen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Top Produkte aus der Kategorie $KATEGORIE in unserem Online Shop günstig kaufen. Nur Top Produkte. Schnell und günstig geliefert.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Baumaschinen & Kompressoren von $HERSTELLER",
+        "defaultMetaDescription": "Baumaschinen & Kompressoren von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1 für Baumaschinen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Baumaschinen & Baugeräte",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Baumaschinen & Baugeräte Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Baumaschinen & Baugeräte Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Baumaschinen & Kompressoren von $HERSTELLER",
-    "defaultMetaDescription": "Baumaschinen & Kompressoren von $HERSTELLER - führend in Innovation und Qualität. Kaufen Sie jetzt online bei der Nr.1 für Baumaschinen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Baumaschinen & Baugeräte",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Baumaschinen & Baugeräte Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Baumaschinen & Baugeräte Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
